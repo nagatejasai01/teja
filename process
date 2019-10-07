@@ -1,0 +1,9 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1781       1    1781       5928  ?         197612 00:15:36 /usr/bin/mintty
+     1662    1661    1662       6628  pty0      197612 22:52:17 /usr/bin/bash
+     1700    1699    1700       3056  pty1      197612 22:59:01 /usr/bin/bash
+     1779    1662    1779      10232  pty0      197612 23:36:33 /c/Program Files/Java/jdk1.8.0_221/bin/java
+     1829    1782    1829       6072  pty2      197612 00:18:33 /usr/bin/ps
+     1782    1781    1782       4820  pty2      197612 00:15:36 /usr/bin/bash
+     1699       1    1699       8800  ?         197612 22:59:00 /usr/bin/mintty
+     1661       1    1661       3544  ?         197612 22:52:11 /usr/bin/mintty
